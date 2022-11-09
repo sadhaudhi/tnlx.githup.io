@@ -1,0 +1,9 @@
+Util\CheckCodeUtil.class
+SinIn.class
+dao\Brand.class
+Util\BasicDAO.class
+User.class
+CodeServlet.class
+Register.class
+Util\JDBCUtilsByDruid.class
+Text.class
